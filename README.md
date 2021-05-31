@@ -1,5 +1,5 @@
 {
   "عنوان": "با ریوا حرفه ای شو!",
-  "لینک": "myket.ir/app/ir.riva.app",
-  "تصویر": "https://s19.picofile.com/file/8435076892/453ddd60bb56bf1ead30b83ea7ed8cda.jpg"
+  "لینک": "https://myket.ir/app/ir.riva.app",
+  "تصویر": "https://8pic.ir/uploads/IMG-20210531-144743-010.jpg"
 }
